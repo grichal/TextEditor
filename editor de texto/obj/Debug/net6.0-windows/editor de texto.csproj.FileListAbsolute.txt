@@ -1,0 +1,17 @@
+C:\Users\grego\source\repos\editor de texto\editor de texto\bin\Debug\net6.0-windows\editor de texto.exe
+C:\Users\grego\source\repos\editor de texto\editor de texto\bin\Debug\net6.0-windows\editor de texto.deps.json
+C:\Users\grego\source\repos\editor de texto\editor de texto\bin\Debug\net6.0-windows\editor de texto.runtimeconfig.json
+C:\Users\grego\source\repos\editor de texto\editor de texto\bin\Debug\net6.0-windows\editor de texto.dll
+C:\Users\grego\source\repos\editor de texto\editor de texto\bin\Debug\net6.0-windows\editor de texto.pdb
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.csproj.AssemblyReference.cache
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.csproj.GenerateResource.cache
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.AssemblyInfoInputs.cache
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.AssemblyInfo.cs
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.dll
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\refint\editor de texto.dll
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.pdb
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor de texto.genruntimeconfig.cache
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\ref\editor de texto.dll
+C:\Users\grego\source\repos\editor de texto\editor de texto\obj\Debug\net6.0-windows\editor_de_texto.Form1.resources
